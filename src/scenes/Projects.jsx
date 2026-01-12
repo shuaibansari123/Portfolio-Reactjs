@@ -227,7 +227,7 @@ const Projects = () => {
 
         <Project
           title="Inner Peace Platform"
-          description="A mindfulness and well-being platform built with Django, focused on clean UX, backend stability, and production deployment."
+          description="A Multi-Lingual (Arbi+Urdu+English+Hindi) mindfulness and well-being platform built with Django, focused on Scrapping and clean UX, backend stability,  and production deployment."
           link="https://innerpeace.pythonanywhere.com/"
         image="../assets/my_project_image_inner_peace.png"
         />
