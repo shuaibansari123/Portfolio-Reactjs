@@ -20,7 +20,6 @@
 
 // export default Footer;
 
-
 import { SocialMediaIcons } from "../components";
 
 const Footer = () => {
@@ -41,6 +40,16 @@ const Footer = () => {
             <p className="text-sm text-yellow opacity-80 mt-1">
               Backend Engineer • Cloud • Distributed Systems
             </p>
+
+            {/* RESUME LINK */}
+            <a
+              href="/assets/Muhammad_Shuaib_Ansari_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className=" bg-gradient-rainblue  inline-block mt-3 text-sm text-yellow underline hover:opacity-80"
+            >
+              Download Resume
+            </a>
           </div>
 
           <p className="font-playfair text-sm text-yellow mt-4 md:mt-0 opacity-80">

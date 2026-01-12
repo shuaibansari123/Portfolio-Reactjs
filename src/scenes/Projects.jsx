@@ -139,8 +139,7 @@ const projectImages = {
   "decentralized-payment-system": "project-1.jpeg",
   "e-commerce-site": "project-2.jpeg",
 };
-
-const Project = ({ title, description }) => {
+const Project = ({ title, description, link, image }) => {
   const projectTitle = title.split(" ").join("-").toLowerCase();
 
   return (
@@ -154,10 +153,21 @@ const Project = ({ title, description }) => {
           {title}
         </p>
         <p className="mt-4 text-sm md:text-base">{description}</p>
+
+        {link && (
+          <a
+            href={link}
+            target="_blank"
+            rel="noreferrer"
+            className="mt-4 text-sm font-semibold underline"
+          >
+            View Live Project →
+          </a>
+        )}
       </div>
 
       <img
-        src={`../assets/${projectImages[projectTitle]}`}
+        src={image || `../assets/${projectImages[projectTitle]}`}
         alt={projectTitle}
         className="w-full h-full object-cover"
       />
@@ -215,15 +225,24 @@ const Projects = () => {
             BACKEND & CLOUD PROJECTS
           </div>
 
+        <Project
+          title="Inner Peace Platform"
+          description="A mindfulness and well-being platform built with Django, focused on clean UX, backend stability, and production deployment."
+          link="https://innerpeace.pythonanywhere.com/"
+        image="../assets/my_project_image_inner_peace.png"
+        />
+
           <Project
             title="Decentralized Payment System"
             description="Multi-currency wallet system with blockchain integration, async transaction APIs using Django + Celery, and fault-tolerant microservices deployed on AWS."
           />
 
+        
           <Project
             title="E-commerce Site"
             description="Production-ready Django backend with order lifecycle management, Razorpay payments, and real-time order tracking using AJAX."
-          />
+            link="https://shuaibansari.pythonanywhere.com/"
+         />
 
           {/* Highlight Block */}
           <div className="flex justify-center items-center p-8 bg-blue text-center text-2xl font-playfair font-semibold">

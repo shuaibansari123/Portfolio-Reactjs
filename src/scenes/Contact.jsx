@@ -289,6 +289,7 @@ const Contact = () => {
             >
               SEND ME A MESSAGE
             </button>
+            
           </form>
         </motion.div>
       </div>

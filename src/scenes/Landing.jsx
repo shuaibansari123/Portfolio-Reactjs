@@ -210,17 +210,19 @@ const Landing = ({ setSelectedPage }) => {
           >
             Contact Me
           </AnchorLink>
-          <AnchorLink
-            className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5"
-            onClick={() => setSelectedPage("contact")}
-            href="#contact"
-          >
-            <div className="bg-deep-blue hover:text-red transition duration-500 w-full h-full flex items-center justify-center px-10 font-playfair">
-              Let’s talk.
-            </div>
-          </AnchorLink>
+<a
+  href="/assets/Muhammad_Shuaib_Ansari_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-r-sm bg-gradient-rainblue py-0.5 pr-0.5"
+>
+  <div className="bg-deep-blue hover:text-red transition duration-500 w-full h-full flex items-center justify-center px-10 font-playfair">
+    My Resume
+  </div>
+</a>
         </motion.div>
-
+          
+          
         {/* SOCIAL LINKS */}
         <motion.div
           className="flex mt-5 justify-center md:justify-start"
