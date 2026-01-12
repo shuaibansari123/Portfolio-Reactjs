@@ -12,34 +12,34 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Reactfolio-App/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ladunjexa/Reactfolio-App" alt="contributors" />
+  <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/shuaibansari123/Portfolio-Reactjs" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/ladunjexa/Reactfolio-App" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/shuaibansari123/Portfolio-Reactjs" alt="last update" />
   </a>
-  <a href="https://github.com/ladunjexa/Reactfolio-App/network/members">
-    <img src="https://img.shields.io/github/forks/ladunjexa/Reactfolio-App" alt="forks" />
+  <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/network/members">
+    <img src="https://img.shields.io/github/forks/shuaibansari123/Portfolio-Reactjs" alt="forks" />
   </a>
-  <a href="https://github.com/ladunjexa/Reactfolio-App/stargazers">
-    <img src="https://img.shields.io/github/stars/ladunjexa/Reactfolio-App" alt="stars" />
+  <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/stargazers">
+    <img src="https://img.shields.io/github/stars/shuaibansari123/Portfolio-Reactjs" alt="stars" />
   </a>
-  <a href="https://github.com/ladunjexa/Reactfolio-App/issues/">
-    <img src="https://img.shields.io/github/issues/ladunjexa/Reactfolio-App" alt="open issues" />
+  <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/issues/">
+    <img src="https://img.shields.io/github/issues/shuaibansari123/Portfolio-Reactjs" alt="open issues" />
   </a>
-  <a href="https://github.com/ladunjexa/Reactfolio-App/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ladunjexa/Reactfolio-App.svg" alt="license" />
+  <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/shuaibansari123/Portfolio-Reactjs.svg" alt="license" />
   </a>
 </p>
    
  <h4>
     <a href="https://reactfolio-app.vercel.app/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Reactfolio-App">Documentation</a>
+    <a href="https://github.com/shuaibansari123/Portfolio-Reactjs">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Reactfolio-App/issues/">Report Bug</a>
+    <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Reactfolio-App/issues/">Request Feature</a>
+    <a href="https://github.com/shuaibansari123/Portfolio-Reactjs/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -115,7 +115,7 @@ Reactfolio-App/
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/ladunjexa/Reactfolio-App
+ https://github.com/shuaibansari123/Portfolio-Reactjs
 ```
 
 #### Step 2:
@@ -174,9 +174,6 @@ At the main folder execute the following command in console to run the webapp:
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/Reactfolio-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Reactfolio-App" />
-</a>
 
 
 Contributions are always welcome!
@@ -199,7 +196,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Reactfolio-App/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/shuaibansari123/Portfolio-Reactjs/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
