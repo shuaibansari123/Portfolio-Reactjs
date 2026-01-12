@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
+  ![Project Banner](readme_assets/readme_banner_1.png#gh-dark-mode-only)
+  ![Project Banner](readme_assets/readme_banner-light-1.png#gh-light-mode-only)
 
-  <h1>Reactfolio App</h1>
+  <h1>Muhammad Shuaib Ansari</h1>
   
   <p>
-    Reactfolio is a modern UI/UX Personal Portfolio Website built with React & TailwindCSS
+    Personal portfolio of Muhammad Shuaib Ansari — Backend Engineer (Python, Django, GCP).
   </p>
 
 <!-- Badges -->
@@ -71,7 +71,7 @@
 ## :star2: About the Project
 
 <div align="center">
-  <img src="readme_assets/reactfolio-mockup.png" height="auto" width="75%"/>
+  <img src="readme_assets/reactfolio-mockup-1.png" height="auto" width="75%"/>
 </div>
 
 <br />
@@ -206,9 +206,9 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjex
 <!-- Contact -->
 ## :handshake: Contact
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
+Muhammad Shuaib Ansari - [LinkedIn](https://linkedin.com/in/muhammad-shuaib-ansari-9356131b3/) - shuaibansari4044@gmail.com
 
-Project Link: [https://github.com/ladunjexa/Reactfolio-App](https://github.com/ladunjexa/Reactfolio-App)
+Project Link: https://shuaibansari.pythonanywhere.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

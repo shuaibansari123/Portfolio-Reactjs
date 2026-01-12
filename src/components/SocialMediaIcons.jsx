@@ -1,5 +1,5 @@
 const socials = [
-  { alt: "linkedin", url: "https://www.linkedin.com" },
+  { alt: "linkedin", url: "https://www.linkedin.com/in/muhammad-shuaib-ansari-9356131b3/" },
   { alt: "twitter", url: "https://www.twitter.com" },
   { alt: "facebook", url: "https://www.facebook.com" },
   { alt: "instagram", url: "https://www.instagram.com" },

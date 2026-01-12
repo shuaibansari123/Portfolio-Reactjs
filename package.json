@@ -1,7 +1,9 @@
 {
-  "name": "jane",
+  "name": "muhammad-shuaib-portfolio",
   "version": "0.1.0",
   "private": true,
+  "author": "Muhammad Shuaib Ansari",
+  "description": "Personal portfolio site for Muhammad Shuaib Ansari", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
